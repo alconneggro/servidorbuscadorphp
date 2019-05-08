@@ -1,0 +1,43 @@
+[Wed May 08 00:45:20.515687 2019] [mpm_winnt:notice] [pid 3528:tid 540] AH00455: Apache/2.4.9 (Win32) PHP/5.5.12 configured -- resuming normal operations
+[Wed May 08 00:45:20.515687 2019] [mpm_winnt:notice] [pid 3528:tid 540] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:13:13
+[Wed May 08 00:45:20.515687 2019] [core:notice] [pid 3528:tid 540] AH00094: Command line: 'C:\\Users\\andres\\Desktop\\servi\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/Users/andres/Desktop/servi/wamp/bin/apache/apache2.4.9'
+[Wed May 08 00:45:20.515687 2019] [mpm_winnt:notice] [pid 3528:tid 540] AH00418: Parent: Created child process 4312
+[Wed May 08 00:45:21.234474 2019] [mpm_winnt:notice] [pid 4312:tid 464] AH00354: Child: Starting 64 worker threads.
+[Wed May 08 01:53:21.359862 2019] [authz_core:error] [pid 4312:tid 968] [client ::1:49768] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:53:21.361864 2019] [authz_core:error] [pid 4312:tid 984] [client ::1:49769] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:53:21.361864 2019] [authz_core:error] [pid 4312:tid 964] [client ::1:49770] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:06.139957 2019] [authz_core:error] [pid 4312:tid 968] [client ::1:49771] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:06.142959 2019] [authz_core:error] [pid 4312:tid 984] [client ::1:49772] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:06.143960 2019] [authz_core:error] [pid 4312:tid 964] [client ::1:49773] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:07.227423 2019] [authz_core:error] [pid 4312:tid 964] [client ::1:49773] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:07.228422 2019] [authz_core:error] [pid 4312:tid 984] [client ::1:49772] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:07.229423 2019] [authz_core:error] [pid 4312:tid 968] [client ::1:49771] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:07.959910 2019] [authz_core:error] [pid 4312:tid 968] [client ::1:49771] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:07.960911 2019] [authz_core:error] [pid 4312:tid 984] [client ::1:49772] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:07.961911 2019] [authz_core:error] [pid 4312:tid 964] [client ::1:49773] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:20.424731 2019] [authz_core:error] [pid 4312:tid 964] [client ::1:49774] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:20.425733 2019] [authz_core:error] [pid 4312:tid 984] [client ::1:49775] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:20.429734 2019] [authz_core:error] [pid 4312:tid 968] [client ::1:49776] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:44.862370 2019] [authz_core:error] [pid 4312:tid 968] [client ::1:49779] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:44.863371 2019] [authz_core:error] [pid 4312:tid 984] [client ::1:49780] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:45.786986 2019] [authz_core:error] [pid 4312:tid 984] [client ::1:49780] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:45.787986 2019] [authz_core:error] [pid 4312:tid 968] [client ::1:49779] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:46.635550 2019] [authz_core:error] [pid 4312:tid 968] [client ::1:49779] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:46.636552 2019] [authz_core:error] [pid 4312:tid 984] [client ::1:49780] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:46.819674 2019] [authz_core:error] [pid 4312:tid 984] [client ::1:49780] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:54:46.820673 2019] [authz_core:error] [pid 4312:tid 968] [client ::1:49779] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:55:50.208810 2019] [authz_core:error] [pid 4312:tid 968] [client ::1:49797] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:55:50.208810 2019] [authz_core:error] [pid 4312:tid 984] [client ::1:49798] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:55:50.210811 2019] [authz_core:error] [pid 4312:tid 964] [client ::1:49799] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:55:50.866247 2019] [authz_core:error] [pid 4312:tid 964] [client ::1:49799] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:55:50.868248 2019] [authz_core:error] [pid 4312:tid 968] [client ::1:49797] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:55:50.868248 2019] [authz_core:error] [pid 4312:tid 984] [client ::1:49798] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:55:51.079390 2019] [authz_core:error] [pid 4312:tid 984] [client ::1:49798] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:55:51.080391 2019] [authz_core:error] [pid 4312:tid 968] [client ::1:49797] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:55:51.080391 2019] [authz_core:error] [pid 4312:tid 964] [client ::1:49799] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:56:00.815429 2019] [authz_core:error] [pid 4312:tid 964] [client ::1:49800] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:56:00.816430 2019] [authz_core:error] [pid 4312:tid 968] [client ::1:49801] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:56:00.818433 2019] [authz_core:error] [pid 4312:tid 984] [client ::1:49802] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:56:03.697399 2019] [authz_core:error] [pid 4312:tid 984] [client ::1:49802] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:56:03.697399 2019] [authz_core:error] [pid 4312:tid 968] [client ::1:49801] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
+[Wed May 08 01:56:03.697399 2019] [authz_core:error] [pid 4312:tid 964] [client ::1:49800] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/nuevacarpeta/
